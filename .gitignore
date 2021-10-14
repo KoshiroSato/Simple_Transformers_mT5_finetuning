@@ -1,0 +1,7 @@
+data/*.csv
+easy_japanese/ipynb_checkpoints/*
+easy_japanese/outputs/*
+easy_japanese/runs/*
+headlines_generation/ipynb_checkpoints/*
+headlines_generation/outputs/*
+headlines_generation/runs/*
